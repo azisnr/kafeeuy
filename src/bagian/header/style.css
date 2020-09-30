@@ -1,0 +1,3 @@
+@import "../header/mobile.css" screen and (min-width: 320px) and (max-width: 480px);
+
+@import "../header/destop.css" screen and (min-width: 1025px) and (max-width: 1280px);

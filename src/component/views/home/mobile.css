@@ -1,0 +1,22 @@
+.Home {
+    background-color: #fff;
+}
+
+.header-satu {
+    width: 100%;
+    height: 160px;
+    background-image: url('../../../images/header-mobile1.jpg');
+    background-size: 100%;
+}
+
+.kunyit{
+    font-size: 14px;
+}
+
+.mie {
+    font-size: 12px;
+}
+
+.kentang {
+    font-size: 13px;
+}

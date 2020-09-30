@@ -1,0 +1,17 @@
+.Header {
+    background-color: white;
+    border-top: 1px solid #dadada;
+    width: 50%;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    z-index: 1;
+}
+
+.Header .logo{
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}

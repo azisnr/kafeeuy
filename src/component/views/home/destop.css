@@ -1,0 +1,25 @@
+.Home {
+    background-color: #fff;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-satu {
+    width: 100%;
+    height: 160px;
+    background-image: url('../../../images/header1.jpg');
+    background-size: 100%;
+}
+
+.navbar-bottom {
+    background-color: white;
+    border-top: 1px solid #dadada;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+}
